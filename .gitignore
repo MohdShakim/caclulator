@@ -1,0 +1,75 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+tmp/
+*.o
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.so.[0-9]*
+*.a
+*.pyc
+*.pyo
+*.rej
+*.so
+*.dll
+*.exe
+*.ilk
+*.pdb
+*.manifest
+*.log
+*.tlog
+*.lck
+*.idb
+*.pdb
+*.ipch/
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache/
+*.ilk
+*.sbr
+*.sdf
+ipch/
+obj/
+*.dbmdl
+[Tt]humbs.db
+[Tt]humbs.db_
+*[Ll]og.txt
+*.log
+*.vscode/
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+ 
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+desktop.ini
+
+# Compiled TypeScript
+*.js
+*.map
+
+# Compiled Sass
+*.css
+
+# System Files
+.DS_Store
+Thumbs.db
